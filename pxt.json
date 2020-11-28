@@ -1,0 +1,21 @@
+{
+    "name": "Tilt Remote Control",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "k8": "github:k8robotics/pxt-k8#bf89bc20c3fba18743918cb7ce2ce3ee764addcb",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
